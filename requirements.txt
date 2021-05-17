@@ -20,7 +20,7 @@ numpy
 
 scikit-learn==0.22.2.post1
 sklearn==0.0
-sklearn-pandas==1.8.0
+
 termcolor==1.1.0
 threadpoolctl==2.1.0
 Werkzeug==1.0.1
