@@ -18,7 +18,7 @@ Markdown
 MarkupSafe==1.1.1
 numpy 
 
-scikit-learn==0.22.2.post1
+scikit-learn
 
 termcolor==1.1.0
 threadpoolctl==2.1.0
